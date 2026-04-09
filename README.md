@@ -1,4 +1,4 @@
-# 🧬 Transcriptomic Analysis of Ammonia-Treated HepG2 Cells Using Paired-End RNA Sequencing
+#  Transcriptomic Analysis of Ammonia-Treated HepG2 Cells Using Paired-End RNA Sequencing
 
 ---
 
@@ -149,7 +149,7 @@ featureCounts -a annotation.gtf -o counts.txt sorted.bam
 
 ---
 
-### 🔹 Comparison Summary
+###  Comparison Summary
 
 | Feature         | Before  | After        |
 | --------------- | ------- | ------------ |
@@ -462,6 +462,6 @@ Genome-wide read coverage plots indicate:
 
 ---
 
-## 👩‍🔬 Author
+##  Author
 
 Riya Kundu
